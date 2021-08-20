@@ -22,10 +22,6 @@ $replaceword = $_POST['replaceword'];
     <input type="password" name="password" value="secret" />
     <br>
     <br>
-    Enter password Again:  
-    <input type="password" name="repassword" value="secret" />
-    <br>
-    <br>
     Replace word: 
     <input type="text" name="replace"  />
     <br>
